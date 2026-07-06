@@ -1,0 +1,190 @@
+{
+  "name": "Paul Ricard - ELMS",
+  "trackId": "paul ricard - elms",
+  "country": "FR",
+  "length": 5807,
+  "pitentry": 0.96,
+  "pitexit": 0.01,
+  "turn": [
+    {
+      "number": 1,
+      "name": "S de la Verrerie",
+      "start": 0.054,
+      "marker": 0.078,
+      "end": 0.09,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 2,
+      "name": "Esses de la Verrerie",
+      "start": 0.09,
+      "marker": 0.098,
+      "end": 0.13,
+      "direction": 0,
+      "scale": 4
+    },
+    {
+      "number": 3,
+      "name": "Virage de L'Hotel",
+      "start": 0.175,
+      "marker": 0.194,
+      "end": 0.210,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 4,
+      "name": "Virage du Camp",
+      "start": 0.210,
+      "marker": 0.214,
+      "end": 0.225,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 5,
+      "name": "Virage de la Sainte-Beaume",
+      "start": 0.225,
+      "marker": 0.233,
+      "end": 0.245,
+      "direction": 1,
+      "scale": 4
+    },
+    {
+      "number": 6,
+      "name": "T6",
+      "start": 0.245,
+      "marker": 0.252,
+      "end": 0.265,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 7,
+      "name": "Saint-Brieuc",
+      "start": 0.275,
+      "marker": 0.292,
+      "end": 0.31,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 8,
+      "name": "Chicane du Mistral",
+      "start": 0.448,
+      "marker": 0.462,
+      "end": 0.472,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 9,
+      "name": "Chicane du Mistral",
+      "start": 0.472,
+      "marker": 0.482,
+      "end": 0.495,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 10,
+      "name": "Courbe de Signes",
+      "start": 0.655,
+      "marker": 0.698,
+      "end": 0.715,
+      "direction": 0,
+      "scale": 5
+    },
+    {
+      "number": 11,
+      "name": "Double Droite De Beausset",
+      "start": 0.715,
+      "marker": 0.718,
+      "end": 0.735,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 12,
+      "name": "Virage de Bendor",
+      "start": 0.738,
+      "marker": 0.746,
+      "end": 0.765,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 13,
+      "name": "Courbe du Garlaban",
+      "start": 0.787,
+      "marker": 0.805,
+      "end": 0.83,
+      "direction": 1,
+      "scale": 3
+    },
+    {
+      "number": 14,
+      "name": "Virage de la Tour",
+      "start": 0.878,
+      "marker": 0.896,
+      "end": 0.908,
+      "direction": 0,
+      "scale": 3
+    },
+    {
+      "number": 15,
+      "name": "Virage du Pont",
+      "start": 0.908,
+      "marker": 0.916,
+      "end": 0.935,
+      "direction": 1,
+      "scale": 4
+    }
+  ],
+  "straight": [
+    {
+      "name": "Ligne Droite du Mistral (1)",
+      "start": 0.31,
+      "end": 0.448
+    },
+    {
+      "name": "Ligne Droite du Mistral (2)",
+      "start": 0.495,
+      "end": 0.655
+    }
+  ],
+  "sector": [
+    {
+      "name": "Sector 1",
+      "marker": 0.255
+    },
+    {
+      "name": "Sector 2",
+      "marker": 0.558
+    },
+    {
+      "name": "Sector 3",
+      "marker": 1.0
+    }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 84 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 88 }
+      ],
+      "lmp3": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 80 }
+      ]
+    }
+  ]
+}
