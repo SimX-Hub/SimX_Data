@@ -1,8 +1,8 @@
 {
-  "name": "Circuit de la Sarthe (Mulsanne)",
+  "name": "Circuit de la Sarthe Mulsanne",
   "trackId": "circuit de la sarthe mulsanne",
   "country": "FR",
-  "length": 1360,
+  "length": 13626,
   "pitentry": 0.99,
   "pitexit": 0.03,
   "turn": [
