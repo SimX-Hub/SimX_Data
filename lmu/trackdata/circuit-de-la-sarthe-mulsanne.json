@@ -1,0 +1,62 @@
+{
+  "name": "Circuit de la Sarthe Mulsanne",
+  "trackId": "circuit de la sarthe mulsanne",
+  "country": "FR",
+  "length": 13626,
+  "pitentry": 0.99,
+  "pitexit": 0.03,
+  "turn": [
+    { "number": 1, "name": "Courbe Dunlop", "start": 0.03, "marker": 0.04, "end": 0.05, "direction": 1, "scale": 5 },
+    { "number": 2, "name": "Chicane Dunlop", "start": 0.06, "marker": 0.06, "end": 0.06, "direction": 0, "scale": 4 },
+    { "number": 3, "name": "T3", "start": 0.06, "marker": 0.06, "end": 0.07, "direction": 1, "scale": 4 },
+    { "number": 4, "name": "Esses de la Foret", "start": 0.1, "marker": 0.11, "end": 0.11, "direction": 0, "scale": 4 },
+    { "number": 5, "name": "T5", "start": 0.11, "marker": 0.12, "end": 0.12, "direction": 1, "scale": 4 },
+    { "number": 6, "name": "Virage du Tertre Rouge", "start": 0.14, "marker": 0.14, "end": 0.15, "direction": 1, "scale": 4 },
+    { "number": 7, "name": "Virage de Mulsanne", "start": 0.56, "marker": 0.56, "end": 0.57, "direction": 1, "scale": 2 },
+    { "number": 8, "name": "T8", "start": 0.7, "marker": 0.7, "end": 0.71, "direction": 1, "scale": 5 },
+    { "number": 9, "name": "Virage d'Indianapolis", "start": 0.72, "marker": 0.72, "end": 0.73, "direction": 0, "scale": 4 },
+    { "number": 10, "name": "Virage d'Arange", "start": 0.74, "marker": 0.74, "end": 0.75, "direction": 1, "scale": 3 },
+    { "number": 11, "name": "T11", "start": 0.81, "marker": 0.82, "end": 0.83, "direction": 0, "scale": 6 },
+    { "number": 12, "name": "Virage Porsche", "start": 0.83, "marker": 0.84, "end": 0.85, "direction": 1, "scale": 5 },
+    { "number": 13, "name": "Virage du Pont", "start": 0.86, "marker": 0.87, "end": 0.88, "direction": 0, "scale": 5 },
+    { "number": 14, "name": "Virage du Karting", "start": 0.89, "marker": 0.89, "end": 0.9, "direction": 1, "scale": 5 },
+    { "number": 15, "name": "Virage du Corvette", "start": 0.91, "marker": 0.91, "end": 0.92, "direction": 0, "scale": 5 },
+    { "number": 16, "name": "Chicane Ford", "start": 0.97, "marker": 0.97, "end": 0.97, "direction": 0, "scale": 4 },
+    { "number": 17, "name": "T17", "start": 0.97, "marker": 0.98, "end": 0.98, "direction": 1, "scale": 4 },
+    { "number": 18, "name": "Chicane du Raccordement", "start": 0.98, "marker": 0.98, "end": 0.98, "direction": 0, "scale": 4 },
+    { "number": 19, "name": "T19", "start": 0.98, "marker": 0.99, "end": 0.99, "direction": 1, "scale": 4 }
+  ],
+  "straight": [
+    { "name": "Main Straight", "start": 0.99, "end": 0.02 },
+    { "name": "Hunaudières", "start": 0.16, "end": 0.055 }
+  ],
+  "sector": [
+    { "name": "Sector 1", "marker": 0.14 },
+    { "name": "Sector 2", "marker": 0.56 },
+    { "name": "Sector 3", "marker": 1.0 }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 44 },
+        { "name": "pit", "time": 86 }
+      ],
+      "gte": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 44 },
+        { "name": "pit", "time": 78 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 44 },
+        { "name": "pit", "time": 97 }
+      ],
+      "hyper": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 44 },
+        { "name": "pit", "time": 87 }
+      ]
+    }
+  ]
+}

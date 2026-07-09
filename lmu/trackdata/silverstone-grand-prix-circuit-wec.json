@@ -1,0 +1,56 @@
+{
+  "name": "Silverstone Grand Prix Circuit - WEC",
+  "trackId": "silverstone grand prix circuit - wec",
+  "country": "GB",
+  "length": 5869,
+  "pitentry": 0.97,
+  "pitexit": 0.029,
+  "turn": [
+    { "number": 1, "name": "Copse", "start": 0.064, "marker": 0.084, "end": 0.098, "direction": 1, "scale": 4 },
+    { "number": 2, "name": "Maggotts", "start": 0.128, "marker": 0.146, "end": 0.162, "direction": 0, "scale": 5 },
+    { "number": 3, "name": "Maggotts", "start": 0.162, "marker": 0.176, "end": 0.186, "direction": 1, "scale": 3 },
+    { "number": 4, "name": "Becketts", "start": 0.186, "marker": 0.200, "end": 0.212, "direction": 0, "scale": 3 },
+    { "number": 5, "name": "Becketts", "start": 0.212, "marker": 0.226, "end": 0.237, "direction": 1, "scale": 3 },
+    { "number": 6, "name": "Chapel", "start": 0.237, "marker": 0.245, "end": 0.258, "direction": 0, "scale": 5 },
+    { "number": 7, "name": "Stowe", "start": 0.370, "marker": 0.390, "end": 0.402, "direction": 1, "scale": 4 },
+    { "number": 8, "name": "Vale", "start": 0.402, "marker": 0.413, "end": 0.428, "direction": 0, "scale": 1 },
+    { "number": 9, "name": "Club", "start": 0.440, "marker": 0.479, "end": 0.505, "direction": 1, "scale": 3 },
+    { "number": 10, "name": "Abbey", "start": 0.507, "marker": 0.520, "end": 0.532, "direction": 1, "scale": 4 },
+    { "number": 11, "name": "Farm", "start": 0.590, "marker": 0.608, "end": 0.618, "direction": 0, "scale": 6 },
+    { "number": 12, "name": "Village", "start": 0.638, "marker": 0.656, "end": 0.665, "direction": 1, "scale": 1 },
+    { "number": 13, "name": "Loop", "start": 0.665, "marker": 0.694, "end": 0.706, "direction": 0, "scale": 1 },
+    { "number": 14, "name": "Aintree", "start": 0.706, "marker": 0.720, "end": 0.738, "direction": 0, "scale": 2 },
+    { "number": 15, "name": "Brooklands", "start": 0.845, "marker": 0.863, "end": 0.872, "direction": 0, "scale": 2 },
+    { "number": 16, "name": "Luffield", "start": 0.872, "marker": 0.885, "end": 0.907, "direction": 1, "scale": 1 },
+    { "number": 17, "name": "Woodcote", "start": 0.945, "marker": 0.965, "end": 0.975, "direction": 1, "scale": 6 }
+  ],
+  "straight": [
+    { "name": "Hangar Straight", "start": 0.258, "end": 0.370 },
+    { "name": "Hamilton Straight", "start": 0.532, "end": 0.585 },
+    { "name": "Wellington Straight", "start": 0.755, "end": 0.840 }
+  ],
+  "sector": [
+    { "name": "Sector 1", "marker": 0.335 },
+    { "name": "Sector 2", "marker": 0.720 },
+    { "name": "Sector 3", "marker": 1.0 }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 37 },
+        { "name": "sng10", "time": 47 },
+        { "name": "pit", "time": 89 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 37 },
+        { "name": "sng10", "time": 47 },
+        { "name": "pit", "time": 93 }
+      ],
+      "lmp3": [
+        { "name": "dt", "time": 37 },
+        { "name": "sng10", "time": 47 },
+        { "name": "pit", "time": 85 }
+      ]
+    }
+  ]
+}

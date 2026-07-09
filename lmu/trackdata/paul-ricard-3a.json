@@ -1,0 +1,45 @@
+{
+  "name": "Paul Ricard - 3A",
+  "trackId": "paul ricard - 3a",
+  "country": "FR",
+  "length": 3752,
+  "pitentry": 0.96,
+  "pitexit": 0.01,
+  "turn": [
+    { "number": 1, "name": "la Bretelle", "start": 0.1136, "marker": 0.1336, "end": 0.1505, "direction": 1, "scale": 6 },
+    { "number": 2, "name": "L'École", "start": 0.1505, "marker": 0.1705, "end": 0.1905, "direction": 1, "scale": 5 },
+    { "number": 3, "name": "Courbe de Signes", "start": 0.5678, "marker": 0.5878, "end": 0.5970, "direction": 1, "scale": 3 },
+    { "number": 4, "name": "Double Droite De Beausset", "start": 0.5970, "marker": 0.6062, "end": 0.6297, "direction": 1, "scale": 3 },
+    { "number": 5, "name": "Virage de Bendor", "start": 0.6297, "marker": 0.6497, "end": 0.6697, "direction": 1, "scale": 4 },
+    { "number": 6, "name": "Courbe du Garlaban", "start": 0.7251, "marker": 0.7451, "end": 0.7651, "direction": 0, "scale": 5 },
+    { "number": 7, "name": "Virage de la Tour", "start": 0.8650, "marker": 0.8850, "end": 0.9050, "direction": 0, "scale": 4 },
+    { "number": 8, "name": "Virage du Pont", "start": 0.8946, "marker": 0.9146, "end": 0.9346, "direction": 1, "scale": 6 }
+  ],
+  "straight": [
+    { "name": "Ligne Droite du Mistral", "start": 0.1905, "end": 0.5678 }
+  ],
+  "sector": [
+    { "name": "Sector 1", "marker": 0.2106 },
+    { "name": "Sector 2", "marker": 0.6835 },
+    { "name": "Sector 3", "marker": 1.0000 }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 84 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 88 }
+      ],
+      "lmp3": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 80 }
+      ]
+    }
+  ]
+}

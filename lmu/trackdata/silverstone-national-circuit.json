@@ -1,0 +1,44 @@
+{
+  "name": "Silverstone National Circuit",
+  "trackId": "silverstone national circuit",
+  "country": "GB",
+  "length": 2634,
+  "pitentry": 0.97,
+  "pitexit": 0.029,
+  "turn": [
+    { "number": 1, "name": "Copse", "start": 0.1401, "marker": 0.1601, "end": 0.1801, "direction": 1, "scale": 3 },
+    { "number": 2, "name": "Maggotts", "start": 0.3017, "marker": 0.3217, "end": 0.3417, "direction": 0, "scale": 2 },
+    { "number": 3, "name": "Becketts", "start": 0.3838, "marker": 0.4038, "end": 0.4238, "direction": 1, "scale": 4 },
+    { "number": 4, "name": "Brooklands", "start": 0.6942, "marker": 0.7142, "end": 0.7342, "direction": 0, "scale": 4 },
+    { "number": 5, "name": "Luffield", "start": 0.7193, "marker": 0.7393, "end": 0.7593, "direction": 0, "scale": 4 },
+    { "number": 6, "name": "Woodcote", "start": 0.8843, "marker": 0.9043, "end": 0.9243, "direction": 1, "scale": 2 }
+  ],
+  "straight": [
+    { "name": "Wellington Straight", "start": 0.4238, "end": 0.6942 },
+    { "name": "National Pits Straight", "start": 0.9243, "end": 0.1401 }
+  ],
+  "sector": [
+    { "name": "Sector 1", "marker": 0.2843 },
+    { "name": "Sector 2", "marker": 0.6784 },
+    { "name": "Sector 3", "marker": 1.0000 }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 37 },
+        { "name": "sng10", "time": 47 },
+        { "name": "pit", "time": 89 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 37 },
+        { "name": "sng10", "time": 47 },
+        { "name": "pit", "time": 93 }
+      ],
+      "lmp3": [
+        { "name": "dt", "time": 37 },
+        { "name": "sng10", "time": 47 },
+        { "name": "pit", "time": 85 }
+      ]
+    }
+  ]
+}

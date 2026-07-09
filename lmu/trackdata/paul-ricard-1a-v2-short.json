@@ -1,0 +1,50 @@
+{
+  "name": "Paul Ricard - 1A-V2-Short",
+  "trackId": "paul ricard - 1a-v2-short",
+  "country": "FR",
+  "length": 5162,
+  "pitentry": 0.96,
+  "pitexit": 0.01,
+  "turn": [
+    { "number": 1, "name": "S de la Verrerie", "start": 0.1064, "marker": 0.1264, "end": 0.1370, "direction": 0, "scale": 4 },
+    { "number": 2, "name": "S de la Verrerie", "start": 0.1370, "marker": 0.1479, "end": 0.1679, "direction": 1, "scale": 3 },
+    { "number": 3, "name": "Virage de L'Hotel", "start": 0.2324, "marker": 0.2524, "end": 0.2621, "direction": 1, "scale": 4 },
+    { "number": 4, "name": "Virage de L'Hotel", "start": 0.2621, "marker": 0.2718, "end": 0.2918, "direction": 0, "scale": 4 },
+    { "number": 5, "name": "Virage du Camp", "start": 0.2731, "marker": 0.2931, "end": 0.3131, "direction": 1, "scale": 6 },
+    { "number": 6, "name": "Virage de la Sainte-Beaume", "start": 0.2968, "marker": 0.3168, "end": 0.3368, "direction": 1, "scale": 4 },
+    { "number": 7, "name": "L'École", "start": 0.3393, "marker": 0.3593, "end": 0.3793, "direction": 0, "scale": 2 },
+    { "number": 8, "name": "Courbe de Signes", "start": 0.7095, "marker": 0.7295, "end": 0.7400, "direction": 1, "scale": 2 },
+    { "number": 9, "name": "Courbe de Signes", "start": 0.7400, "marker": 0.7510, "end": 0.7670, "direction": 1, "scale": 2 },
+    { "number": 10, "name": "Virage de Bendor", "start": 0.7670, "marker": 0.7841, "end": 0.7928, "direction": 1, "scale": 6 },
+    { "number": 11, "name": "Courbe du Garlaban", "start": 0.7928, "marker": 0.8128, "end": 0.8328, "direction": 0, "scale": 5 },
+    { "number": 12, "name": "Virage de la Tour", "start": 0.8985, "marker": 0.9185, "end": 0.9385, "direction": 0, "scale": 5 },
+    { "number": 13, "name": "Virage du Pont", "start": 0.9180, "marker": 0.9380, "end": 0.9580, "direction": 1, "scale": 6 }
+  ],
+  "straight": [
+    { "name": "Ligne Droite du Mistral", "start": 0.3793, "end": 0.7095 }
+  ],
+  "sector": [
+    { "name": "Sector 1", "marker": 0.3077 },
+    { "name": "Sector 2", "marker": 0.6671 },
+    { "name": "Sector 3", "marker": 1.0000 }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 84 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 88 }
+      ],
+      "lmp3": [
+        { "name": "dt", "time": 32 },
+        { "name": "sng10", "time": 42 },
+        { "name": "pit", "time": 80 }
+      ]
+    }
+  ]
+}
