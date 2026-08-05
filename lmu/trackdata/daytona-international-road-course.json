@@ -1,0 +1,47 @@
+{
+  "name": "Daytona International Road Course",
+  "trackId": "daytona international road course",
+  "country": "US",
+  "length": 5734,
+  "pitentry": 0.97,
+  "pitexit": 0.02,
+  "turn": [
+    { "number": 1, "name": "T1", "start": 0.0616, "marker": 0.0816, "end": 0.1016, "direction": 0, "scale": 4 },
+    { "number": 2, "name": "Rodríguez International Horseshoe", "start": 0.1004, "marker": 0.1204, "end": 0.1404, "direction": 0, "scale": 2 },
+    { "number": 3, "name": "The Dogleg", "start": 0.1494, "marker": 0.1694, "end": 0.1894, "direction": 1, "scale": 5 },
+    { "number": 4, "name": "T4", "start": 0.2307, "marker": 0.2507, "end": 0.2707, "direction": 0, "scale": 2 },
+    { "number": 5, "name": "West Horseshoe", "start": 0.2876, "marker": 0.3076, "end": 0.3276, "direction": 1, "scale": 5 },
+    { "number": 6, "name": "T6", "start": 0.3533, "marker": 0.3733, "end": 0.3933, "direction": 0, "scale": 5 },
+    { "number": 7, "name": "T7", "start": 0.4396, "marker": 0.4596, "end": 0.4796, "direction": 0, "scale": 2 },
+    { "number": 8, "name": "T8", "start": 0.5099, "marker": 0.5299, "end": 0.5499, "direction": 0, "scale": 1 },
+    { "number": 9, "name": "T9", "start": 0.6677, "marker": 0.6877, "end": 0.7077, "direction": 1, "scale": 3 },
+    { "number": 10, "name": "T10", "start": 0.6948, "marker": 0.7148, "end": 0.7348, "direction": 0, "scale": 1 },
+    { "number": 11, "name": "The Le Mans Chicane", "start": 0.7229, "marker": 0.7540, "end": 0.7851, "direction": 0, "scale": 2 },
+    { "number": 12, "name": "T12", "start": 0.7713, "marker": 0.7913, "end": 0.8113, "direction": 0, "scale": 2 },
+    { "number": 13, "name": "T13", "start": 0.7874, "marker": 0.8074, "end": 0.8274, "direction": 0, "scale": 1 }
+  ],
+  "sector": [
+    { "name": "Sector 1", "marker": 0.2109 },
+    { "name": "Sector 2", "marker": 0.6439 },
+    { "name": "Sector 3", "marker": 1.0 }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 40 },
+        { "name": "sng10", "time": 50 },
+        { "name": "pit", "time": 73 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 40 },
+        { "name": "sng10", "time": 50 },
+        { "name": "pit", "time": 77 }
+      ],
+      "lmp3": [
+        { "name": "dt", "time": 40 },
+        { "name": "sng10", "time": 50 },
+        { "name": "pit", "time": 69 }
+      ]
+    }
+  ]
+}

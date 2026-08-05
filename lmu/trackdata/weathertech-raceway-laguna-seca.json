@@ -1,0 +1,45 @@
+{
+  "name": "WeatherTech Raceway Laguna Seca",
+  "trackId": "weathertech raceway laguna seca",
+  "country": "US",
+  "length": 3590,
+  "pitentry": 0.97,
+  "pitexit": 0.02,
+  "turn": [
+    { "number": 1, "name": "T1", "start": 0.0477, "marker": 0.0677, "end": 0.0877, "direction": 0, "scale": 1 },
+    { "number": 2, "name": "Andretti Hairpin", "start": 0.1231, "marker": 0.1431, "end": 0.1631, "direction": 0, "scale": 5 },
+    { "number": 3, "name": "T3", "start": 0.1983, "marker": 0.2183, "end": 0.2383, "direction": 1, "scale": 4 },
+    { "number": 4, "name": "T4", "start": 0.2734, "marker": 0.2934, "end": 0.3134, "direction": 1, "scale": 4 },
+    { "number": 5, "name": "T5", "start": 0.4037, "marker": 0.4237, "end": 0.4437, "direction": 0, "scale": 4 },
+    { "number": 6, "name": "T6", "start": 0.5188, "marker": 0.5388, "end": 0.5588, "direction": 0, "scale": 4 },
+    { "number": 7, "name": "T7", "start": 0.6402, "marker": 0.6602, "end": 0.6802, "direction": 1, "scale": 2 },
+    { "number": 8, "name": "The Corkscrew", "start": 0.6609, "marker": 0.6898, "end": 0.7186, "direction": 0, "scale": 6 },
+    { "number": 9, "name": "Rainey Curve", "start": 0.7380, "marker": 0.7580, "end": 0.7780, "direction": 0, "scale": 4 },
+    { "number": 10, "name": "T10", "start": 0.8129, "marker": 0.8329, "end": 0.8529, "direction": 1, "scale": 4 },
+    { "number": 11, "name": "T11", "start": 0.8910, "marker": 0.9110, "end": 0.9310, "direction": 0, "scale": 6 }
+  ],
+  "sector": [
+    { "name": "Sector 1", "marker": 0.3931 },
+    { "name": "Sector 2", "marker": 0.7925 },
+    { "name": "Sector 3", "marker": 1.0 }
+  ],
+  "time": [
+    {
+      "gt3": [
+        { "name": "dt", "time": 33 },
+        { "name": "sng10", "time": 43 },
+        { "name": "pit", "time": 67 }
+      ],
+      "lmp2": [
+        { "name": "dt", "time": 33 },
+        { "name": "sng10", "time": 43 },
+        { "name": "pit", "time": 71 }
+      ],
+      "lmp3": [
+        { "name": "dt", "time": 33 },
+        { "name": "sng10", "time": 43 },
+        { "name": "pit", "time": 63 }
+      ]
+    }
+  ]
+}
