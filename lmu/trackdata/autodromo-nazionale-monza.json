@@ -9,9 +9,10 @@
     { "number": 1, "name": "Variante del Rettifilo", "start": 0.15, "marker": 0.16, "end": 0.17, "direction": 1, "scale": 4 },
     { "number": 2, "name": "Curva Grande", "start": 0.21, "marker": 0.24, "end": 0.29, "direction": 1, "scale": 5 },
     { "number": 3, "name": "Variante della Roggia", "start": 0.36, "marker": 0.37, "end": 0.38, "direction": 0, "scale": 4 },
-    { "number": 4, "name": "Curve di Lesmo", "start": 0.42, "marker": 0.44, "end": 0.5, "direction": 1, "scale": 4 },
-    { "number": 5, "name": "Variante Ascari", "start": 0.68, "marker": 0.68, "end": 0.72, "direction": 0, "scale": 5 },
-    { "number": 6, "name": "Curva Parabolica", "start": 0.88, "marker": 0.9, "end": 0.95, "direction": 1, "scale": 3 }
+    { "number": 4, "name": "Curve di Lesmo 1", "start": 0.42, "marker": 0.44, "end": 0.45, "direction": 1, "scale": 3 },
+    { "number": 5, "name": "Curve di Lesmo 2", "start": 0.49, "marker": 0.49, "end": 0.5, "direction": 1, "scale": 4 },
+    { "number": 6, "name": "Variante Ascari", "start": 0.68, "marker": 0.68, "end": 0.72, "direction": 0, "scale": 5 },
+    { "number": 7, "name": "Curva Parabolica", "start": 0.88, "marker": 0.9, "end": 0.95, "direction": 1, "scale": 3 }
   ],
   "straight": [
     { "name": "Main Straight", "start": 0.96, "end": 0.15 }
